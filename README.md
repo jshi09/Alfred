@@ -1,2 +1,2 @@
 # Jiacheng
-##preferred name Alfred
+preferred name Alfred
