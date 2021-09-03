@@ -1,4 +1,4 @@
-#Jiacheng Shi
+Jiacheng Shi
 preferred name: Alfred
 
-##Brief Introduction of Myself
+Brief Introduction of Myself
