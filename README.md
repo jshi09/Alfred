@@ -1,4 +1,4 @@
-# Wicked Problems (DATA 100)
+# Jiacheng Shi's homepage
 
 Jiacheng Shi
 
